@@ -1,0 +1,12 @@
+{
+  "name": "Obsessocopia",
+  "description": "Ta din Cornucopia-besatthet till nästa nivå!",
+  "version": "beta",
+  "manifest_version": 3,
+   "content_scripts": [
+    {
+      "matches": ["https://cornucopia.se/*"],
+      "js": ["popup.js"]
+    }
+  ]
+}
