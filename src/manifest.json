@@ -1,7 +1,7 @@
 {
   "name": "Obsessocopia",
   "description": "Ta din Cornucopia-besatthet till nästa nivå!",
-  "version": "beta",
+  "version": "0.1.0",
   "manifest_version": 3,
    "content_scripts": [
     {
